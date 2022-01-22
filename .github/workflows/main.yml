@@ -14,8 +14,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        LA=23
-        curl https://api.erg.ic.ac.uk/AirQuality/Daily/MonitoringIndex/Latest/LocalAuthorityId=$LA/Json | jq . > air.json
+        LA=Lewisham
+        curl https://data.london.gov.uk/api/table/dffsk_bjpxq?area_name=$LA | jq . > mobility.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
