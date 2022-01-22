@@ -1,7 +1,7 @@
 {
   "DailyAirQualityIndex": {
     "@MonitoringIndexDate": "2022-01-21 00:00:00",
-    "@TimeToLive": "59",
+    "@TimeToLive": "54",
     "LocalAuthority": {
       "@LocalAuthorityCode": "23",
       "@LocalAuthorityName": "Lewisham",
