@@ -1,6 +1,6 @@
 {
   "info": {
-    "total": 720,
+    "total": 721,
     "rows": 100,
     "offset": 0,
     "limit": 100,
@@ -65,7 +65,7 @@
   ],
   "rows": [
     {
-      "_row_id": 14401,
+      "_row_id": 14421,
       "date": "2020-02-15",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -77,7 +77,7 @@
       "residential_percent_change_from_baseline": 2
     },
     {
-      "_row_id": 14402,
+      "_row_id": 14422,
       "date": "2020-02-16",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -89,7 +89,7 @@
       "residential_percent_change_from_baseline": 2
     },
     {
-      "_row_id": 14403,
+      "_row_id": 14423,
       "date": "2020-02-17",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -101,7 +101,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14404,
+      "_row_id": 14424,
       "date": "2020-02-18",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -113,7 +113,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14405,
+      "_row_id": 14425,
       "date": "2020-02-19",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -125,7 +125,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14406,
+      "_row_id": 14426,
       "date": "2020-02-20",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -137,7 +137,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14407,
+      "_row_id": 14427,
       "date": "2020-02-21",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -149,7 +149,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14408,
+      "_row_id": 14428,
       "date": "2020-02-22",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -161,7 +161,7 @@
       "residential_percent_change_from_baseline": 0
     },
     {
-      "_row_id": 14409,
+      "_row_id": 14429,
       "date": "2020-02-23",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -173,7 +173,7 @@
       "residential_percent_change_from_baseline": 0
     },
     {
-      "_row_id": 14410,
+      "_row_id": 14430,
       "date": "2020-02-24",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -185,7 +185,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14411,
+      "_row_id": 14431,
       "date": "2020-02-25",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -197,7 +197,7 @@
       "residential_percent_change_from_baseline": 0
     },
     {
-      "_row_id": 14412,
+      "_row_id": 14432,
       "date": "2020-02-26",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -209,7 +209,7 @@
       "residential_percent_change_from_baseline": 0
     },
     {
-      "_row_id": 14413,
+      "_row_id": 14433,
       "date": "2020-02-27",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -221,7 +221,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14414,
+      "_row_id": 14434,
       "date": "2020-02-28",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -233,7 +233,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14415,
+      "_row_id": 14435,
       "date": "2020-02-29",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -245,7 +245,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14416,
+      "_row_id": 14436,
       "date": "2020-03-01",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -257,7 +257,7 @@
       "residential_percent_change_from_baseline": -1
     },
     {
-      "_row_id": 14417,
+      "_row_id": 14437,
       "date": "2020-03-02",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -269,7 +269,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14418,
+      "_row_id": 14438,
       "date": "2020-03-03",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -281,7 +281,7 @@
       "residential_percent_change_from_baseline": 0
     },
     {
-      "_row_id": 14419,
+      "_row_id": 14439,
       "date": "2020-03-04",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -293,7 +293,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14420,
+      "_row_id": 14440,
       "date": "2020-03-05",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -305,7 +305,7 @@
       "residential_percent_change_from_baseline": 2
     },
     {
-      "_row_id": 14421,
+      "_row_id": 14441,
       "date": "2020-03-06",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -317,7 +317,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14422,
+      "_row_id": 14442,
       "date": "2020-03-07",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -329,7 +329,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14423,
+      "_row_id": 14443,
       "date": "2020-03-08",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -341,7 +341,7 @@
       "residential_percent_change_from_baseline": 0
     },
     {
-      "_row_id": 14424,
+      "_row_id": 14444,
       "date": "2020-03-09",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -353,7 +353,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14425,
+      "_row_id": 14445,
       "date": "2020-03-10",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -365,7 +365,7 @@
       "residential_percent_change_from_baseline": 1
     },
     {
-      "_row_id": 14426,
+      "_row_id": 14446,
       "date": "2020-03-11",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -377,7 +377,7 @@
       "residential_percent_change_from_baseline": 2
     },
     {
-      "_row_id": 14427,
+      "_row_id": 14447,
       "date": "2020-03-12",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -389,7 +389,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14428,
+      "_row_id": 14448,
       "date": "2020-03-13",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -401,7 +401,7 @@
       "residential_percent_change_from_baseline": 5
     },
     {
-      "_row_id": 14429,
+      "_row_id": 14449,
       "date": "2020-03-14",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -413,7 +413,7 @@
       "residential_percent_change_from_baseline": 4
     },
     {
-      "_row_id": 14430,
+      "_row_id": 14450,
       "date": "2020-03-15",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -425,7 +425,7 @@
       "residential_percent_change_from_baseline": 3
     },
     {
-      "_row_id": 14431,
+      "_row_id": 14451,
       "date": "2020-03-16",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -437,7 +437,7 @@
       "residential_percent_change_from_baseline": 7
     },
     {
-      "_row_id": 14432,
+      "_row_id": 14452,
       "date": "2020-03-17",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -449,7 +449,7 @@
       "residential_percent_change_from_baseline": 13
     },
     {
-      "_row_id": 14433,
+      "_row_id": 14453,
       "date": "2020-03-18",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -461,7 +461,7 @@
       "residential_percent_change_from_baseline": 16
     },
     {
-      "_row_id": 14434,
+      "_row_id": 14454,
       "date": "2020-03-19",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -473,7 +473,7 @@
       "residential_percent_change_from_baseline": 18
     },
     {
-      "_row_id": 14435,
+      "_row_id": 14455,
       "date": "2020-03-20",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -485,7 +485,7 @@
       "residential_percent_change_from_baseline": 21
     },
     {
-      "_row_id": 14436,
+      "_row_id": 14456,
       "date": "2020-03-21",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -497,7 +497,7 @@
       "residential_percent_change_from_baseline": 15
     },
     {
-      "_row_id": 14437,
+      "_row_id": 14457,
       "date": "2020-03-22",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -509,7 +509,7 @@
       "residential_percent_change_from_baseline": 12
     },
     {
-      "_row_id": 14438,
+      "_row_id": 14458,
       "date": "2020-03-23",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -521,7 +521,7 @@
       "residential_percent_change_from_baseline": 26
     },
     {
-      "_row_id": 14439,
+      "_row_id": 14459,
       "date": "2020-03-24",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -533,7 +533,7 @@
       "residential_percent_change_from_baseline": 31
     },
     {
-      "_row_id": 14440,
+      "_row_id": 14460,
       "date": "2020-03-25",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -545,7 +545,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14441,
+      "_row_id": 14461,
       "date": "2020-03-26",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -557,7 +557,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14442,
+      "_row_id": 14462,
       "date": "2020-03-27",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -569,7 +569,7 @@
       "residential_percent_change_from_baseline": 36
     },
     {
-      "_row_id": 14443,
+      "_row_id": 14463,
       "date": "2020-03-28",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -581,7 +581,7 @@
       "residential_percent_change_from_baseline": 23
     },
     {
-      "_row_id": 14444,
+      "_row_id": 14464,
       "date": "2020-03-29",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -593,7 +593,7 @@
       "residential_percent_change_from_baseline": 18
     },
     {
-      "_row_id": 14445,
+      "_row_id": 14465,
       "date": "2020-03-30",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -605,7 +605,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14446,
+      "_row_id": 14466,
       "date": "2020-03-31",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -617,7 +617,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14447,
+      "_row_id": 14467,
       "date": "2020-04-01",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -629,7 +629,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14448,
+      "_row_id": 14468,
       "date": "2020-04-02",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -641,7 +641,7 @@
       "residential_percent_change_from_baseline": 36
     },
     {
-      "_row_id": 14449,
+      "_row_id": 14469,
       "date": "2020-04-03",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -653,7 +653,7 @@
       "residential_percent_change_from_baseline": 37
     },
     {
-      "_row_id": 14450,
+      "_row_id": 14470,
       "date": "2020-04-04",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -665,7 +665,7 @@
       "residential_percent_change_from_baseline": 22
     },
     {
-      "_row_id": 14451,
+      "_row_id": 14471,
       "date": "2020-04-05",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -677,7 +677,7 @@
       "residential_percent_change_from_baseline": 17
     },
     {
-      "_row_id": 14452,
+      "_row_id": 14472,
       "date": "2020-04-06",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -689,7 +689,7 @@
       "residential_percent_change_from_baseline": 33
     },
     {
-      "_row_id": 14453,
+      "_row_id": 14473,
       "date": "2020-04-07",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -701,7 +701,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14454,
+      "_row_id": 14474,
       "date": "2020-04-08",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -713,7 +713,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14455,
+      "_row_id": 14475,
       "date": "2020-04-09",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -725,7 +725,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14456,
+      "_row_id": 14476,
       "date": "2020-04-10",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -737,7 +737,7 @@
       "residential_percent_change_from_baseline": 39
     },
     {
-      "_row_id": 14457,
+      "_row_id": 14477,
       "date": "2020-04-11",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -749,7 +749,7 @@
       "residential_percent_change_from_baseline": 22
     },
     {
-      "_row_id": 14458,
+      "_row_id": 14478,
       "date": "2020-04-12",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -761,7 +761,7 @@
       "residential_percent_change_from_baseline": 18
     },
     {
-      "_row_id": 14459,
+      "_row_id": 14479,
       "date": "2020-04-13",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -773,7 +773,7 @@
       "residential_percent_change_from_baseline": 37
     },
     {
-      "_row_id": 14460,
+      "_row_id": 14480,
       "date": "2020-04-14",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -785,7 +785,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14461,
+      "_row_id": 14481,
       "date": "2020-04-15",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -797,7 +797,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14462,
+      "_row_id": 14482,
       "date": "2020-04-16",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -809,7 +809,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14463,
+      "_row_id": 14483,
       "date": "2020-04-17",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -821,7 +821,7 @@
       "residential_percent_change_from_baseline": 37
     },
     {
-      "_row_id": 14464,
+      "_row_id": 14484,
       "date": "2020-04-18",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -833,7 +833,7 @@
       "residential_percent_change_from_baseline": 22
     },
     {
-      "_row_id": 14465,
+      "_row_id": 14485,
       "date": "2020-04-19",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -845,7 +845,7 @@
       "residential_percent_change_from_baseline": 17
     },
     {
-      "_row_id": 14466,
+      "_row_id": 14486,
       "date": "2020-04-20",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -857,7 +857,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14467,
+      "_row_id": 14487,
       "date": "2020-04-21",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -869,7 +869,7 @@
       "residential_percent_change_from_baseline": 33
     },
     {
-      "_row_id": 14468,
+      "_row_id": 14488,
       "date": "2020-04-22",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -881,7 +881,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14469,
+      "_row_id": 14489,
       "date": "2020-04-23",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -893,7 +893,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14470,
+      "_row_id": 14490,
       "date": "2020-04-24",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -905,7 +905,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14471,
+      "_row_id": 14491,
       "date": "2020-04-25",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -917,7 +917,7 @@
       "residential_percent_change_from_baseline": 21
     },
     {
-      "_row_id": 14472,
+      "_row_id": 14492,
       "date": "2020-04-26",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -929,7 +929,7 @@
       "residential_percent_change_from_baseline": 16
     },
     {
-      "_row_id": 14473,
+      "_row_id": 14493,
       "date": "2020-04-27",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -941,7 +941,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14474,
+      "_row_id": 14494,
       "date": "2020-04-28",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -953,7 +953,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14475,
+      "_row_id": 14495,
       "date": "2020-04-29",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -965,7 +965,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14476,
+      "_row_id": 14496,
       "date": "2020-04-30",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -977,7 +977,7 @@
       "residential_percent_change_from_baseline": 34
     },
     {
-      "_row_id": 14477,
+      "_row_id": 14497,
       "date": "2020-05-01",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -989,7 +989,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14478,
+      "_row_id": 14498,
       "date": "2020-05-02",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1001,7 +1001,7 @@
       "residential_percent_change_from_baseline": 20
     },
     {
-      "_row_id": 14479,
+      "_row_id": 14499,
       "date": "2020-05-03",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1013,7 +1013,7 @@
       "residential_percent_change_from_baseline": 16
     },
     {
-      "_row_id": 14480,
+      "_row_id": 14500,
       "date": "2020-05-04",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1025,7 +1025,7 @@
       "residential_percent_change_from_baseline": 31
     },
     {
-      "_row_id": 14481,
+      "_row_id": 14501,
       "date": "2020-05-05",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1037,7 +1037,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14482,
+      "_row_id": 14502,
       "date": "2020-05-06",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1049,7 +1049,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14483,
+      "_row_id": 14503,
       "date": "2020-05-07",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1061,7 +1061,7 @@
       "residential_percent_change_from_baseline": 31
     },
     {
-      "_row_id": 14484,
+      "_row_id": 14504,
       "date": "2020-05-08",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1073,7 +1073,7 @@
       "residential_percent_change_from_baseline": 35
     },
     {
-      "_row_id": 14485,
+      "_row_id": 14505,
       "date": "2020-05-09",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1085,7 +1085,7 @@
       "residential_percent_change_from_baseline": 19
     },
     {
-      "_row_id": 14486,
+      "_row_id": 14506,
       "date": "2020-05-10",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1097,7 +1097,7 @@
       "residential_percent_change_from_baseline": 16
     },
     {
-      "_row_id": 14487,
+      "_row_id": 14507,
       "date": "2020-05-11",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1109,7 +1109,7 @@
       "residential_percent_change_from_baseline": 31
     },
     {
-      "_row_id": 14488,
+      "_row_id": 14508,
       "date": "2020-05-12",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1121,7 +1121,7 @@
       "residential_percent_change_from_baseline": 31
     },
     {
-      "_row_id": 14489,
+      "_row_id": 14509,
       "date": "2020-05-13",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1133,7 +1133,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14490,
+      "_row_id": 14510,
       "date": "2020-05-14",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1145,7 +1145,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14491,
+      "_row_id": 14511,
       "date": "2020-05-15",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1157,7 +1157,7 @@
       "residential_percent_change_from_baseline": 32
     },
     {
-      "_row_id": 14492,
+      "_row_id": 14512,
       "date": "2020-05-16",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1169,7 +1169,7 @@
       "residential_percent_change_from_baseline": 18
     },
     {
-      "_row_id": 14493,
+      "_row_id": 14513,
       "date": "2020-05-17",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1181,7 +1181,7 @@
       "residential_percent_change_from_baseline": 13
     },
     {
-      "_row_id": 14494,
+      "_row_id": 14514,
       "date": "2020-05-18",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1193,7 +1193,7 @@
       "residential_percent_change_from_baseline": 28
     },
     {
-      "_row_id": 14495,
+      "_row_id": 14515,
       "date": "2020-05-19",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1205,7 +1205,7 @@
       "residential_percent_change_from_baseline": 29
     },
     {
-      "_row_id": 14496,
+      "_row_id": 14516,
       "date": "2020-05-20",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1217,7 +1217,7 @@
       "residential_percent_change_from_baseline": 29
     },
     {
-      "_row_id": 14497,
+      "_row_id": 14517,
       "date": "2020-05-21",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1229,7 +1229,7 @@
       "residential_percent_change_from_baseline": 30
     },
     {
-      "_row_id": 14498,
+      "_row_id": 14518,
       "date": "2020-05-22",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1241,7 +1241,7 @@
       "residential_percent_change_from_baseline": 30
     },
     {
-      "_row_id": 14499,
+      "_row_id": 14519,
       "date": "2020-05-23",
       "area_name": "Lewisham",
       "area_code": "E09000023",
@@ -1253,7 +1253,7 @@
       "residential_percent_change_from_baseline": 17
     },
     {
-      "_row_id": 14500,
+      "_row_id": 14520,
       "date": "2020-05-24",
       "area_name": "Lewisham",
       "area_code": "E09000023",
